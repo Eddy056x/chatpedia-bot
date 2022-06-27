@@ -1,7 +1,7 @@
 ## Simple Chatbot Projects 
 </br>
-* Rian: writing a chatbot program, maintenance
-* Agustinus A.R and Ruben S: quiz references searcher
+#### Rian: writing a chatbot program, maintenance
+#### Agustinus A.R and Ruben S: quiz references searcher
 
 ### Quiz Questions and Answers Ref:
 https://quizizz.com/admin/quiz/5eb41720027065001b6e740e/kuis-anak-sd-menyenangkan
