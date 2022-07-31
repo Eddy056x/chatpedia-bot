@@ -72,29 +72,6 @@ bot.action('nenek', ctx => {ctx.reply('salah, yang benar adalah A. /start mulai 
 bot.action('tante', ctx => {ctx.reply('salah, yang benar adalah A. /start mulai dari 0 yahhhhh')})
 bot.action('anak', ctx => {ctx.reply(`
 benar, yuk lanjut!
-Hp apa yang disukai oleh wanita ?
-A. Oppo
-B. Iphone
-C. Realme
-D. Vivo
-`,{
-    reply_markup: {
-        inline_keyboard: [
-            [
-                {text: 'A', callback_data: 'oppo' },
-                {text: `B`, callback_data: 'iphone' },
-                {text: 'C', callback_data: 'realme' },
-                {text: 'D', callback_data: 'vivo' },
-            ]
-        ]
-    }
-})})
-
-bot.action('oppo', ctx => {ctx.reply('salah, yang benar adalah B. /start mulai dari 0 yahhhhh')})
-bot.action('realme', ctx => {ctx.reply('salah, yang benar adalah B. /start mulai dari 0 yahhhhh')})
-bot.action('vivo', ctx => {ctx.reply('salah, yang benar adalah B. /start mulai dari 0 yahhhhh')})
-bot.action('iphone', ctx => {ctx.reply(`
-benar, yuk lanjut!
 Alat indra yang paling peka untuk membedakan benda panas dan benda dingin adalah. . .
 A. Hidung
 B. Mata
@@ -117,29 +94,6 @@ bot.action('rambut', ctx => {ctx.reply('salah, yang benar adalah C. /start mulai
 bot.action('hidung', ctx => {ctx.reply('salah, yang benar adalah C. /start mulai dari 0 yahhhhh')})
 bot.action('telinga', ctx => {ctx.reply('salah, yang benar adalah C. /start mulai dari 0 yahhhhh')})
 bot.action('kulit', ctx => {ctx.reply(`
-benar, yuk lanjut!
-Bayi tidak dapat langsung berjalan karena mereka tidak punya.
-A. Tubuh Gemuk
-B. Tulang Kuat
-C. Otak Cerdas
-D. Imunitas
-`,{
-    reply_markup: {
-        inline_keyboard: [
-            [
-                {text: 'A', callback_data: 'gemuk' },
-                {text: 'B', callback_data: 'tulang' },
-                {text: 'C', callback_data: 'otak' },
-                {text: 'D', callback_data: 'imun' },
-            ]
-        ]
-    }
-})})
-
-bot.action('gemuk', ctx => {ctx.reply('salah, yang benar adalah C. /start mulai dari 0 yahhhhh')})
-bot.action('tulang', ctx => {ctx.reply('salah, yang benar adalah C. /start mulai dari 0 yahhhhh')})
-bot.action('otak', ctx => {ctx.reply('salah, yang benar adalah C. /start mulai dari 0 yahhhhh')})
-bot.action('imun', ctx => {ctx.reply(`
 benar, yuk lanjut!
 Benalu adalah sejenis tanaman.
 A. Benalu
