@@ -1,6 +1,5 @@
 ## Simple Chatbot Projects </br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 </br>
 ### Anggota Kelompok dan tugasnya
 - Rian: Developer (merancang program, menulis kode program, melakukan perawatan pada kode program).
