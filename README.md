@@ -1,5 +1,6 @@
 ## Simple Chatbot Projects 
 </br>
+
 ### Anggota Kelompok dan tugasnya
 - Rian: Developer (merancang program, menulis kode program, melakukan perawatan pada kode program).
 - Agustinus Advendy Raharjo: membuat logo proyek chatbot, mendesain logo chatbot. 
